@@ -1,1 +1,2 @@
 printf ("sonika")
+print ("sajja")
